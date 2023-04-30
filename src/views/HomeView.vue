@@ -7,7 +7,7 @@
     <Work />
     <Skills />
     <Contact />
-    <Spotify />
+    <!--<Spotify />-->
   </main>
 </template>
 

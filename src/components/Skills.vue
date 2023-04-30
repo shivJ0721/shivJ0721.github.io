@@ -4,32 +4,34 @@
     <div class="skills">
       <div class="skillset--1">
         <h2>
-          <span>Javascript</span> . <span>ReactJS</span> .
-          <span>Typescript</span> . <span>VueJS</span> .
-          <span>Javascript</span> . <span>ReactJS</span> .
-          <span>Typescript</span> . <span>VueJS</span>
+          <span>Javascript</span> . <span>.NET</span> . <span>Django</span> .
+          <span>Typescript</span> . <span>Flutter</span> . <span>Flask</span> .
+          <span>Javascript</span> . <span>.NET</span> . <span>Django</span> .
+          <span>Typescript</span> . <span>Flutter</span> . <span>Flask</span> .
         </h2>
       </div>
       <div class="skillset--2">
         <h2>
-          <span>NuxtJS</span> . <span>VueX</span> . <span>Pinia</span> .
-          <span>Git</span> . <span>NuxtJS</span> . <span>VueX</span> .
-          <span>Pinia</span> . <span>Git</span> . <span>NuxtJS</span> .
-          <span>VueX</span> . <span>Pinia</span> . <span>Git</span>
+          <span>C#</span> . <span>SQL</span> . <span>C++</span> .
+          <span>Dart</span> . <span>C</span> . <span>Python</span> .
+          <span>C#</span> . <span>SQL</span> . <span>C++</span> .
+          <span>Dart</span> . <span>C</span> . <span>Python</span> .
         </h2>
       </div>
       <div class="skillset--1">
         <h2>
-          <span>HTML</span> . <span>CSS</span> . <span>SCSS</span> .
-          <span>Bootstrap</span> . <span>HTML</span> . <span>CSS</span> .
-          <span>SCSS</span> . <span>Bootstrap</span>
+          <span>Pytorch</span> . <span>Keras</span> . <span>OpenCV</span> .
+          <span>TensorFlow</span> . <span>ScikitLearn</span> . <span>ApacheSpark</span> .
+          <span>Pytorch</span> . <span>Keras</span> . <span>OpenCV</span> .
+          <span>TensorFlow</span> . <span>ScikitLearn</span> . <span>ApacheSpark</span> .
         </h2>
       </div>
       <div class="skillset--2">
         <h2>
-          <span>AdobeXD</span> . <span>Figma</span> . <span>Wordpress</span> .
-          <span>AdobeXD</span> . <span>Figma</span> . <span>Wordpress</span> .
-          <span>AdobeXD</span> . <span>Figma</span> . <span>Wordpress</span> .
+          <span>Git</span> . <span>Kubernetes</span> . <span>Docker</span> .
+          <span>AWS</span> . <span>GCP</span> . <span>Azure</span> .
+          <span>Git</span> . <span>Kubernetes</span> . <span>Docker</span> .
+          <span>AWS</span> . <span>GCP</span> . <span>Azure</span> .
         </h2>
       </div>
     </div>

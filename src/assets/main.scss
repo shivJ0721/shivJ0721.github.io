@@ -604,6 +604,13 @@ header {
   .arrow {
     margin: 0 3rem;
   }
+  .arrowinv {
+    margin: 0 3rem;
+    transform: rotateY(180deg);
+  }
+
+
+  
 }
 
 .about-section {
@@ -633,8 +640,8 @@ header {
   }
   .image-border {
     border: 1px solid $neutral2;
-    width: 60.4rem;
-    height: 34rem;
+    width: 62.093rem;
+    height: 46.92rem;
     position: absolute;
     transition: all 0.3s ease;
     z-index: -1;
@@ -684,6 +691,7 @@ header {
       display: inline-block;
       line-height: 3rem;
       text-transform: uppercase;
+      padding-top: 79px;
 
       b {
         font-style: italic;
@@ -1042,8 +1050,8 @@ header {
         position: absolute;
         padding: 1rem 2rem;
         border-radius: 4rem;
-        margin-left: 45rem;
-        margin-top: 2.5rem;
+        margin-left: 90rem;
+        margin-top: 2rem;
         transform: translateX(-20%);
         opacity: 0;
         transition: all 0.3s ease;

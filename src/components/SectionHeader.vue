@@ -1,7 +1,7 @@
 <template>
   <div
-    v-if="orientation == 'vertical'"
-    class="section-header vertical"
+    v-if="orientation == 'inverse'"
+    class="section-header"
     :id="'section-' + text"
   >
     <div class="content" :id="'content-' + text">
@@ -9,21 +9,21 @@
         <h1>
           <span>{{ text }}</span>
         </h1>
-        <Arrow class="arrow" color="#242424" />
+        <Arrow class="arrowinv" color="#242424" />
       </div>
       <div>
         <h1>{{ text }}</h1>
-        <Arrow class="arrow" color="white" />
+        <Arrow class="arrowinv" color="white" />
       </div>
       <div>
         <h1>
           <span>{{ text }}</span>
         </h1>
-        <Arrow class="arrow" color="#242424" />
+        <Arrow class="arrowinv" color="#242424" />
       </div>
       <div>
         <h1>{{ text }}</h1>
-        <Arrow class="arrow" color="white" />
+        <Arrow class="arrowinv" color="white" />
       </div>
     </div>
   </div>

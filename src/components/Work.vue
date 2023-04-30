@@ -1,6 +1,6 @@
 <template>
   <section class="work-section" id="work">
-    <SectionHeader :text="'WORK'" />
+    <SectionHeader :orientation="'inverse'" :text="'WORK'" />
     <div class="">
       <div class="projects">
         <div @click="openTab('https://zenpad.netlify.app')" class="project">
@@ -72,58 +72,6 @@
               href="https://anuoluwapo.xyz"
               ><img alt="Project Portfolio" src="/images/portfolio.png"
             /></a>
-          </div>
-        </div>
-
-        <div
-          @click="openTab('https://sabalihealth.netlify.app')"
-          v-show="more"
-          class="project more"
-        >
-          <div class="container">
-            <div class="dot"></div>
-            <h3>Sabali Health</h3>
-          </div>
-          <div class="container">
-            <div class="skills">
-              <span style="--i: 0">HTML</span>
-              <span style="--i: 1">CSS</span>
-              <span style="--i: 2">JAVASCRIPT</span>
-            </div>
-          </div>
-          <div style="background-color: white" class="image">
-            <a
-              name="project-sabali"
-              target="_blank"
-              href="https://sabalihealth.netlify.app"
-            >
-              <img alt="Project Sabali Health" src="/images/sabali.png" />
-            </a>
-          </div>
-        </div>
-        <div
-          @click="openTab('https://tranzaqt.netlify.app')"
-          v-show="more"
-          class="project more"
-        >
-          <div class="container">
-            <div class="dot"></div>
-            <h3>Tranzaqt</h3>
-          </div>
-          <div class="container">
-            <div class="skills">
-              <span style="--i: 0">HTML</span>
-              <span style="--i: 1">CSS</span>
-              <span style="--i: 2">JAVASCRIPT</span>
-            </div>
-          </div>
-          <div class="image">
-            <a
-              name="project-tranzaqt"
-              target="_blank"
-              href="https://tranzaqt.netlify.app"
-              ><img alt="Project Tranzaqt" src="/images/tranzaqt.png" />
-            </a>
           </div>
         </div>
 

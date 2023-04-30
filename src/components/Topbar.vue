@@ -2,7 +2,7 @@
   <header>
     <div class="header container">
       <div class="logo">
-        <p>ANUOLUWAPO.</p>
+        <p>LM.</p>
       </div>
 
       <div class="controls">
@@ -19,7 +19,7 @@
         </div>
 
         <div class="header-buttons">
-          <a target="_blank" href="/AnuoluwapoAbolarin.pdf">
+          <a target="_blank" href="/lajat_Resume.pdf">
             <button type="button" class="btn btn_download">
               <span>DOWNLOAD RESUME</span>
             </button>

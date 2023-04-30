@@ -5,18 +5,15 @@
         <div class="t1">
           <h2>
             <span
-              >FRONT-END<br />
-              DEVELOPER</span
+              >MACHINE-LEARNING<br />
+              ENGINEER</span
             >
           </h2>
-          <div class="images">
-            <img :alt="images[image]" :src="`/images/${images[image]}`" />
-          </div>
         </div>
-        <h2>
+        <h2>  
           PASSIONATE ABOUT<br />
-          CRAFTING<span> SUPERB</span><br />
-          WEB EXPERIENCES
+          CRAFTING<span> ROBUST</span><br />
+          ALGORITHMS
         </h2>
       </div>
       <div class="scroller">
