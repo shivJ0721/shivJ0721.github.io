@@ -16,12 +16,19 @@
     <script type="importmap">
       { "imports": {
           "vue":               "https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.41/vue.esm-browser.prod.js",
-          "buffer":        "https://cdn.jsdelivr.net/npm/buffer@6.0.3/index.min.js"
+          "Buffer":        "https://cdn.jsdelivr.net/npm/buffer@6.0.3/index.min.js",
+          "pinia": "https://cdn.jsdelivr.net/npm/pinia@2.0.35/dist/pinia.iife.min.js",
+          "gsap": "https://cdn.jsdelivr.net/npm/gasp@0.0.2/index.min.js",
+          "imagesloaded" : "https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js",
+          "query-string" : "https://cdn.jsdelivr.net/npm/query-string@8.1.0/index.min.js",
+          "sass" : "https://cdn.jsdelivr.net/npm/sass@1.62.1/sass.min.js",
+          "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@4.1.6/dist/vue-router.global.min.js"
+
       } }
     </script>
     <script type="module" src="/src/main.js"></script>
     <script type="module">
-      import { Buffer } from "buffer";
+      import { Buffer } from "Buffer";
       window.Buffer = Buffer;
     </script>
   </body>
